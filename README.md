@@ -10,7 +10,7 @@
 
 - 온/오프라인 모임은 없이 각자 공부한 내용을 정해진 일자까지 올리는 방식
 - 책을 읽고 학습한 내용을 [Github Discussion](https://github.com/elegant-functional-2023/ds-the-fun-way/discussions)에 업로드
-- 다만, 필요할 경우 모일 수 있어요!
+- 다만, 필요할 경우 오프라인으로 모일 수 있어요! (책거리?)
 
 ### 얻어갈 수 있는 것
 
@@ -29,7 +29,7 @@
 
 - 한 주에 1장씩 읽기 (총 16장 분량)
 - 매주 일요일 23:59pm까지 업로드 (지각이나 미제출 시 벌금 부과)
-- 관련 문제나 자료 등을 첨부해도 좋아요
+- 관련된 알고리즘 문제나 자료 등을 첨부해도 좋아요
 
 ### 벌금
 
@@ -50,6 +50,7 @@
 |  이름  |                   github id                        | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 강민경 | [@ddongule](https://github.com/ddongule)            |      |      |      |      |      |      |      |      |
+| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)      |      |      |      |      |      |      |      |      |
 | 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |      |      |      |      |      |      |      |      |
 | 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |      |      |      |      |      |      |      |      |
 | 안현철 | [@iborymagic](https://github.com/iborymagic)        |      |      |      |      |      |      |      |      |
@@ -62,6 +63,7 @@
 |  이름  |                   github id                        | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차 |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 강민경 | [@ddongule](https://github.com/ddongule)            |      |      |      |      |      |      |      |      |
+| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)      |      |      |      |      |      |      |      |      |
 | 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |      |      |      |      |      |      |      |      |
 | 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |      |      |      |      |      |      |      |      |
 | 안현철 | [@iborymagic](https://github.com/iborymagic)        |      |      |      |      |      |      |      |      |
