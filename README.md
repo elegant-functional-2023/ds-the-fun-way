@@ -49,16 +49,16 @@
 
 |  이름  |                   github id                        | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 강민경 | [@ddongule](https://github.com/ddongule)            |      |      |      |      |      |      |      |      |
-| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)      |      |      |      |      |      |      |      |      |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |      |      |      |      |      |      |      |      |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |      |      |      |      |      |      |      |      |
-| 안현철 | [@iborymagic](https://github.com/iborymagic)        |      |      |      |      |      |      |      |      |
-| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |      |      |      |      |      |      |      |      |
-| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |      |      |      |      |      |      |      |      |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)        |      |      |      |      |      |      |      |      |
-| 조승희 | [@sa02045](https://github.com/sa02045)              |      |      |      |      |      |      |      |      |
-| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |      |      |      |      |      |      |      |      |
+| 강민경 | [@ddongule](https://github.com/ddongule)            |   O   |   X   |   O   |   O   |      |      |      |      |
+| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)      |   O   |   O   |   O   |   O   |      |      |      |      |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |   O   |   O   |   O   |   O   |      |      |      |      |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |   O   |   O   |   O   |   X   |      |      |      |      |
+| 안현철 | [@iborymagic](https://github.com/iborymagic)        |   O   |   X   |   O   |   O   |      |      |      |      |
+| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   O   |   O   |   O   |   O   |      |      |      |      |
+| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   O   |   O   |   O   |   O   |      |      |      |      |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   O   |   O   |   O   |   X   |      |      |      |      |
+| 조승희 | [@sa02045](https://github.com/sa02045)              |   O   |   O   |   O   |   O   |      |      |      |      |
+| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   O   |   O   |   O   |   O   |      |      |      |      |
 
 |  이름  |                   github id                        | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 15주차 | 16주차 |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
