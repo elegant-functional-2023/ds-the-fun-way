@@ -56,7 +56,7 @@
 | 안현철 | [@iborymagic](https://github.com/iborymagic)        |   O   |   X   |   O   |   O   |      |      |      |      |
 | 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   O   |   O   |   O   |   O   |      |      |      |      |
 | 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   O   |   O   |   O   |   O   |      |      |      |      |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   O   |   O   |   O   |   X   |      |      |      |      |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   O   |   O   |   O   |   △   |      |      |      |      |
 | 조승희 | [@sa02045](https://github.com/sa02045)              |   O   |   O   |   O   |   O   |      |      |      |      |
 | 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   O   |   O   |   O   |   O   |      |      |      |      |
 
